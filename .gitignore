@@ -1,0 +1,5 @@
+server/.env
+server/node_modules/
+server/apis.rest
+
+client/node_modules/
